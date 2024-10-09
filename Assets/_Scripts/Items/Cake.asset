@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 897492a75e27aeb4eb5a9f4b05638039, type: 3}
+  m_Name: Cake
+  m_EditorClassIdentifier: 
+  nameString: Cake
+  itemIcon: {fileID: 21300000, guid: e7519a791421fae4baefec06e9112e0f, type: 3}
+  itemPrefab: {fileID: 6908238148248351338, guid: 0c49f3012a9a7b4499b2c21208745129, type: 3}
+  generateTime: 3
+  consumeTime: 5

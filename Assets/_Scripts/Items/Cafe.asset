@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 897492a75e27aeb4eb5a9f4b05638039, type: 3}
+  m_Name: Cafe
+  m_EditorClassIdentifier: 
+  nameString: Cafe
+  itemIcon: {fileID: 21300000, guid: 735d4f231fe4fd549ab9b7eb7d373a7b, type: 3}
+  itemPrefab: {fileID: 6908238148248351338, guid: c416a4176315e1a4cab195050937782f, type: 3}
+  generateTime: 2
+  consumeTime: 3
